@@ -1,1 +1,1 @@
-yum install nodejs
+yum install -y nodejs
